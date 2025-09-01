@@ -1,2 +1,2 @@
 # sparkshots
-Spark Shots
+Welcome to SparkShots, your ultimate destination for unforgettable photo booth experiences! Whether you're hosting a wedding, corporate event, birthday party, or any special occasion, SparkShots is here to capture moments, spark joy, and share lasting memories through high-quality, interactive photo booth services. Our offerings are fully customizable, modern, and designed to add fun and flair to any event. This website was proudly developed by Altruism Company, with web development led by Shiva Bhalla, combining creativity and functionality to deliver a seamless user experience. Let SparkShots bring your events to life—get in touch with us today and let’s create something unforgettable together!
