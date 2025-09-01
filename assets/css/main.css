@@ -43,6 +43,13 @@
   font-style: normal;
 }
 
+.sitename-font-under {
+  font-family: var(--default-font);
+  font-weight: 100;
+  font-style: normal;
+  font-size: 20px;
+}
+
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
 
 .light-background {
